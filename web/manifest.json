@@ -1,0 +1,11 @@
+{
+  "name": "Guéra Hebdo",
+  "short_name": "Guéra Hebdo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0A2A66",
+  "theme_color": "#0A2A66",
+  "description": "Le regard qui éclaire l'actualité.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}

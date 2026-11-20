@@ -1,0 +1,13 @@
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.idea/
+.vscode/
+*.iml
+.DS_Store
+# Ne jamais déposer de secrets ici :
+.env
+*.pem
